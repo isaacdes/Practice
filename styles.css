@@ -60,8 +60,8 @@
 .rol {
     height: 33.33%;
     float: top;
-    margin: 1px;
-    border: 2px solid black;
+    
+    border: 1px solid white;
     padding: 20%;
 }
 
